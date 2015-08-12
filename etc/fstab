@@ -1,0 +1,9 @@
+# Device		Mountpoint	FStype	Options		Dump	Pass#
+/dev/ad4s1b		none		swap	sw		0	0
+/dev/ad4s1a		/		ufs	rw		1	1
+/dev/ad4s2d		/home		ufs	rw		2	2
+/dev/ad4s1e		/usr		ufs	rw		2	2
+/dev/ad4s1d		/usr/local/		ufs	rw		2	2
+/dev/ad4s1f		/var/		ufs	rw		2	2
+/dev/ad6s1d		/home/ftp/		ufs	rw,noauto		2	2
+/dev/acd0		/cdrom		cd9660	ro,noauto	0	0
